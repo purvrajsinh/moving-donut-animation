@@ -1,3 +1,3 @@
 # moving-donet-animation
 created donet animation with good texture and shades  
-<img src="04.jpg"><img src="03.jpg"><img src="donet.jpg">
+<img style="width=50%" src="04.jpg"><img src="03.jpg"><img src="donut.jpg">
